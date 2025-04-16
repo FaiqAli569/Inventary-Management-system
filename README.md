@@ -1,3 +1,3 @@
 # Inventary-Management-system
 Inventory-management-system-
-i have created an inventory management system through c++ programming language by using concepts of data structures and algorithms
+I have designed and implemented an Inventory Management System using C++ by applying key concepts of data structures and algorithms.
